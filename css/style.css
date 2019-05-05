@@ -1521,4 +1521,16 @@ figure {
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
 
+.alert {
+  margin-bottom: 1em;
+  padding: 10px;
+  background: #49b0e7;
+  font-family: 'Mukta Mahee', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  color: #fff;
+  border-radius: 2.5px;
+  display: none;
+}
+
 /*# sourceMappingURL=style.css.map */
