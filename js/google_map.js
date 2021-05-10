@@ -67,7 +67,7 @@
                         });
                         
                         var inforWindow = new google.maps.InfoWindow({
-                            content: '<h3>Spark International</h3>,<br>web: <a href="https://sparkinternational.org/">sparkinternational.org</a>'
+                            content: '<h3>Spark Initiative</h3>,<br>web: <a href="https://sparkinternational.org/">sparkinternational.org</a>'
                             /*content: '<a href="http://olamgroup.com/">web: Olamgroup.com</a>'*/
                         });
                         
